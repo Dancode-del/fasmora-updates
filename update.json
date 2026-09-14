@@ -1,0 +1,26 @@
+{
+  "latestVersionCode": 185,
+  "minimumVersionCode": 101,
+  "latestVersionName": "3.196.382",
+  "releaseDate": "2026-09-14",
+  "title": "Fasmora 3.196.382 is available",
+  "message": "A faster and more stable version of Fasmora is ready.",
+  "whatsNew": [
+    "Improved browsing stability",
+    "Better tab and navigation handling",
+    "Smaller device-specific APK downloads"
+  ],
+  "required": false,
+  "downloads": {
+    "arm64-v8a": {
+      "url": "https://github.com/Dancode-del/fasmora-/releases/download/v3.196.382/app-arm64-v8a-release.apk",
+      "label": "ARM64 — Recommended",
+      "sha256": "c894f3dd86347758d5ea3542ff6c55e7250fff4268683f317149ccb234042cb7"
+    },
+    "armeabi-v7a": {
+      "url": "https://github.com/Dancode-del/fasmora-/releases/download/v3.196.382/app-armeabi-v7a-release.apk",
+      "label": "32-bit ARM — Older devices",
+      "sha256": "fb1991a5fc59754e01f58b2f4244e97bfc0be21ec5ae249277e5b2f4365647f2"
+    }
+  }
+}
