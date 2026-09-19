@@ -1,10 +1,9 @@
 {
-  "latestVersionCode": 185,
-  "minimumVersionCode": 101,
-  "latestVersionName": "3.196.382",
-  "releaseDate": "2026-09-14",
-  "title": "Fasmora 3.196.382 is available",
-  "message": "A faster and more stable version of Fasmora is ready.",
+  "latestVersionCode": 720,
+  "latestVersionName": "3.690.720",
+  "releaseDate": "2026-09-19",
+  "title": "Fasmora 3.690.720 is available",
+  "message": "A newer version of Fasmora is available.",
   "whatsNew": [
     "Improved browsing stability",
     "Better tab and navigation handling",
