@@ -1,13 +1,16 @@
 {
-  "latestVersionCode": 720,
-  "latestVersionName": "3.690.720",
-  "releaseDate": "2026-09-19",
-  "title": "Fasmora 3.690.720 is available",
-  "message": "A newer version of Fasmora is available.",
+  "latestVersionCode": 898,
+  "latestVersionName": "3.690.898",
+  "releaseDate": "2026-09-21",
+  "title": "Fasmora 3.690.898 is available",
+  "message": "A newer version of Fasmora is available with improved browsing, AI, tabs, ads, and update handling.",
   "whatsNew": [
-    "Improved browsing stability",
-    "Better tab and navigation handling",
-    "Smaller device-specific APK downloads"
+    "Added Open in background tab to the long-press link menu",
+    "Improved long-press link actions and Fasmora AI link handling",
+    "AI conversations now open at the latest message",
+    "Improved native ad loading with shared coordination and reduced duplicate requests",
+    "Improved update security and trusted APK URL validation",
+    "Improved tab and navigation handling"
   ],
   "required": false,
   "downloads": {
