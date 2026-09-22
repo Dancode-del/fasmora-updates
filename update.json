@@ -1,28 +1,29 @@
 {
-  "latestVersionCode": 899,
-  "latestVersionName": "3.690.899",
-  "releaseDate": "2026-09-21",
-  "title": "Fasmora 3.690.899 is available",
-  "message": "A newer version of Fasmora is available with improved browsing, AI, tabs, ads, and update handling.",
-  "whatsNew": [
-    "Added Open in background tab to the long-press link menu",
-    "Improved long-press link actions and Fasmora AI link handling",
-    "AI conversations now open at the latest message",
-    "Improved native ad loading with shared coordination and reduced duplicate requests",
-    "Improved update security and trusted APK URL validation",
-    "Improved tab and navigation handling"
-  ],
-  "required": false,
-  "downloads": {
-    "arm64-v8a": {
-      "url": "https://github.com/Dancode-del/fasmora-/releases/download/v3.196.382/app-arm64-v8a-release.apk",
-      "label": "ARM64 — Recommended",
-      "sha256": "c894f3dd86347758d5ea3542ff6c55e7250fff4268683f317149ccb234042cb7"
-    },
-    "armeabi-v7a": {
-      "url": "https://github.com/Dancode-del/fasmora-/releases/download/v3.196.382/app-armeabi-v7a-release.apk",
-      "label": "32-bit ARM — Older devices",
-      "sha256": "fb1991a5fc59754e01f58b2f4244e97bfc0be21ec5ae249277e5b2f4365647f2"
-    }
-  }
+"latestVersionCode": 944,
+"latestVersionName": "3.690.944",
+"releaseDate": "2026-09-22",
+"title": "Fasmora 3.690.944 is available",
+"message": "A newer version of Fasmora is available with improved browsing, downloads, tabs, AI, popups, and update reliability.",
+"whatsNew": [
+"Improved popup and sign-in session handling for more reliable website authentication",
+"Improved downloads with safer resume handling and better authenticated download support",
+"Improved long-press link actions, including opening links in a background tab",
+"Improved Fasmora AI link handling and conversation behavior",
+"Improved tab navigation, session ownership, and stale popup recovery",
+"Improved update security with stronger APK validation and trusted download redirects",
+"Improved browser stability and reliability across navigation and downloads"
+],
+"required": false,
+"downloads": {
+"arm64-v8a": {
+"url": "https://github.com/Dancode-del/fasmora-/releases/download/3.690.944/app-arm64-v8a-release.apk",
+"label": "ARM64 — Recommended",
+"sha256": "c9d967917f4118caca2be7fd1d7a9ad5c477fcb76a1483211187db1514ab4bf5"
+},
+"armeabi-v7a": {
+"url": "https://github.com/Dancode-del/fasmora-/releases/download/3.690.944/app-armeabi-v7a-release.apk",
+"label": "32-bit ARM — Older devices",
+"sha256": "c2ca1af55b57e772d3513999bd7d07cd8d29c6985ed93b34895f26e51bf166cd"
+}
+}
 }
