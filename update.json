@@ -21,9 +21,9 @@
 "sha256": "c9d967917f4118caca2be7fd1d7a9ad5c477fcb76a1483211187db1514ab4bf5"
 },
 "armeabi-v7a": {
-"url": "https://github.com/Dancode-del/fasmora-/releases/download/3.690.944/app-armeabi-v7a-release.apk",
+"url": "https://github.com/Dancode-del/fasmora-/releases/download/3.690.996/app-armeabi-v7a-release.apk",
 "label": "32-bit ARM — Older devices",
-"sha256": "c2ca1af55b57e772d3513999bd7d07cd8d29c6985ed93b34895f26e51bf166cd"
+"sha256": "db17559ccd9619041f9f66642941e19ed22666c3a622904b382cd29ad5e9504f"
 }
 }
 }
