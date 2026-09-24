@@ -1,29 +1,29 @@
 {
-"latestVersionCode": 1133,
-"latestVersionName": "3.690.1133",
-"releaseDate": "2026-09-22",
-"title": "Fasmora 3.690.1133 is available",
-"message": "A newer version of Fasmora is available with improved browsing, downloads, tabs, AI, popups, and update reliability.",
-"whatsNew": [
-"Improved popup and sign-in session handling for more reliable website authentication",
-"Improved downloads with safer resume handling and better authenticated download support",
-"Improved long-press link actions, including opening links in a background tab",
-"Improved Fasmora AI link handling and conversation behavior",
-"Improved tab navigation, session ownership, and stale popup recovery",
-"Improved update security with stronger APK validation and trusted download redirects",
-"Improved browser stability and reliability across navigation and downloads"
-],
-"required": false,
-"downloads": {
-"arm64-v8a": {
-"url": "https://github.com/Dancode-del/fasmora-/releases/download/3.690.944/app-arm64-v8a-release.apk",
-"label": "ARM64 — Recommended",
-"sha256": "c9d967917f4118caca2be7fd1d7a9ad5c477fcb76a1483211187db1514ab4bf5"
-},
-"armeabi-v7a": {
-"url": "https://github.com/Dancode-del/fasmora-/releases/download/3.690.996/app-armeabi-v7a-release.apk",
-"label": "32-bit ARM — Older devices",
-"sha256": "db17559ccd9619041f9f66642941e19ed22666c3a622904b382cd29ad5e9504f"
-}
-}
+  "latestVersionCode": 1091,
+  "latestVersionName": "3.690.1091",
+  "releaseDate": "2026-09-24",
+  "title": "Fasmora 3.690.1091 is available",
+  "message": "A newer version of Fasmora is available with improved loading feedback, popup and redirect reliability, shortcuts, Web Apps, and sponsored homepage behavior.",
+  "whatsNew": [
+    "Improved browser loading feedback, with progress appearing as soon as navigation starts.",
+    "Made popup windows and redirects more reliable.",
+    "Improved page shortcut icons and Web App handling.",
+    "Refined native ad loading to reduce repeated requests.",
+    "Updated sponsored homepage card behavior.",
+    "Removed the AI-style icon from the browser’s top bar shortcut.",
+    "Updated Fasmora to version 3.690.1091."
+  ],
+  "required": false,
+  "downloads": {
+    "arm64-v8a": {
+      "url": "https://github.com/Dancode-del/fasmora-/releases/download/3.690.1091/app-arm64-v8a-release.apk",
+      "label": "ARM64 — Recommended",
+      "sha256": "680cd2a0b68ff96f19828c822e3f0026ceaa9772e11e71f8c016195573304e86"
+    },
+    "armeabi-v7a": {
+      "url": "https://github.com/Dancode-del/fasmora-/releases/download/3.690.1091/app-armeabi-v7a-release.apk",
+      "label": "32-bit ARM — Older devices",
+      "sha256": "77e3d5cf0939c4abc1a9ed8084627912d0f3b879f2e0569fe924b8675b38ec89"
+    }
+  }
 }
