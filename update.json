@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 1091,
-  "latestVersionName": "3.690.1091",
+  "latestVersionCode": 3000,
+  "latestVersionName": "3.2000.10998",
   "releaseDate": "2026-09-24",
-  "title": "Fasmora 3.690.1091 is available",
+  "title": "Fasmora 3.2000.10998 is available",
   "message": "A newer version of Fasmora is available with improved loading feedback, popup and redirect reliability, shortcuts, Web Apps, and sponsored homepage behavior.",
   "whatsNew": [
     "Improved browser loading feedback, with progress appearing as soon as navigation starts.",
