@@ -1,9 +1,9 @@
 {
-  "latestVersionCode": 3000,
-  "latestVersionName": "3.2000.10998",
-  "releaseDate": "2026-09-24",
-  "title": "Fasmora 3.2000.10998 is available",
-  "message": "A newer version of Fasmora is available with improved loading feedback, popup and redirect reliability, shortcuts, Web Apps, and sponsored homepage behavior.",
+  "latestVersionCode": 5197,
+  "latestVersionName": "3.2610.5252",
+  "releaseDate": "2026-10-07",
+  "title": "Fasmora 3.2610.5252 is available",
+  "message": "A new version of Fasmora is available.",
   "whatsNew": [
     "Improved browser loading feedback, with progress appearing as soon as navigation starts.",
     "Made popup windows and redirects more reliable.",
@@ -16,14 +16,14 @@
   "required": false,
   "downloads": {
     "arm64-v8a": {
-      "url": "https://github.com/Dancode-del/fasmora-/releases/download/3.690.1091/app-arm64-v8a-release.apk",
+      "url": "https://github.com/Dancode-del/fasmora-/releases/download/3.2610.5252/fasmora-release-arm64-v8a.apk",
       "label": "ARM64 — Recommended",
-      "sha256": "680cd2a0b68ff96f19828c822e3f0026ceaa9772e11e71f8c016195573304e86"
+      "sha256": "1b2d290fe3ad6f2ddd84a743387b9367ed8cdf5568319af7e8c0c63d4a215d24"
     },
     "armeabi-v7a": {
-      "url": "https://github.com/Dancode-del/fasmora-/releases/download/3.690.1091/app-armeabi-v7a-release.apk",
+      "url": "https://github.com/Dancode-del/fasmora-/releases/download/3.2610.5252/fasmora-release-armeabi-v7a.apk",
       "label": "32-bit ARM — Older devices",
-      "sha256": "77e3d5cf0939c4abc1a9ed8084627912d0f3b879f2e0569fe924b8675b38ec89"
+      "sha256": "30f5f7dc327d21acb30d19f24ca294c2b38558c716ada889b253f66b5b8af68c"
     }
   }
 }
