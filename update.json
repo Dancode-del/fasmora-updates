@@ -1,0 +1,29 @@
+{
+  "latestVersionCode": 5199,
+  "latestVersionName": "3.2610.5254",
+  "releaseDate": "2026-10-07",
+  "title": "Fasmora 3.2610.5254 is available",
+  "message": "This update fixes Web App uploads and OAuth popup sign-in, and refines Incognito browsing, tab previews, voice chat, and Passwords access.",
+  "whatsNew": [
+    "Fixed file type filtering and single-file selection when uploading through Web Apps.",
+    "Fixed OAuth sign-in popups that stayed blank after authorization completed.",
+    "Matched Incognito menus and browser bars to the Incognito theme.",
+    "Made tab previews larger and clearer.",
+    "Updated voice chat controls.",
+    "Added a launcher shortcut to Fasmora Passwords."
+  ],
+  "required": false,
+  "downloads": {
+    "arm64-v8a": {
+      "url": "https://github.com/Dancode-del/fasmora-/releases/download/3.2610.5254/fasmora-release-arm64-v8a.apk",
+      "label": "ARM64 — Recommended",
+      "sha256": "2855e552b92d9571a0d468561f0f075deb51f59a815f4791745a194eef7b7cb5"
+    },
+    "armeabi-v7a": {
+      "url": "https://github.com/Dancode-del/fasmora-/releases/download/3.2610.5254/fasmora-release-armeabi-v7a.apk",
+      "label": "32-bit ARM — Older devices",
+      "sha256": "fc842d0e7228475b4160869b2651db1272bf4969aa0f8c76dac8fc5a50fb68eb"
+    }
+  },
+  "signature": "CgJ9QnC6y01iVZ/gmMbqDweO86XLoJRi0GTrv/4nCggRfHBE/KZrheAbpNMFPAubKAEAA3t9obDV9TwZgEuSoiYHMDjGc90gkrMUFAiDSupzfGF3v0koNufL/8mWWLT6SG0NkjLm76rZmfn5A7dSksYJOTqR3oJ2ueeX/ovhjg58OWwJpvNFhidGGSU1/QJz5ipeYPUZP9R/ruNDuH9UTAiJFXLuE7BCTR265gvddSmL5vuR78n0FHZn17Pu6/yAWF25XJnoWXlj64P3CietgqHA++jefIHVGzzDeCGWE0CXj4xq3m7fFPH02+atD2nAJ+kHP/S+zhIGax4Fb51QCQ=="
+}
