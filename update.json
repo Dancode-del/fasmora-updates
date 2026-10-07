@@ -3,15 +3,14 @@
   "latestVersionName": "3.2610.5252",
   "releaseDate": "2026-10-07",
   "title": "Fasmora 3.2610.5252 is available",
-  "message": "A new version of Fasmora is available.",
+  "message": "This update improves Web App uploads, sign-in flows, Incognito browsing, tab previews, voice chat, and Passwords access.",
   "whatsNew": [
-    "Improved browser loading feedback, with progress appearing as soon as navigation starts.",
-    "Made popup windows and redirects more reliable.",
-    "Improved page shortcut icons and Web App handling.",
-    "Refined native ad loading to reduce repeated requests.",
-    "Updated sponsored homepage card behavior.",
-    "Removed the AI-style icon from the browser’s top bar shortcut.",
-    "Updated Fasmora to version 3.690.1091."
+    "Fixed file type filters and single-file selection when uploading through Web Apps.",
+    "Improved sign-in callbacks for sites that open a separate authorization window.",
+    "Refined Incognito menus and matched the browser bars to Incognito colors.",
+    "Made tab previews larger and clearer.",
+    "Updated voice chat controls.",
+    "Added a launcher shortcut to Fasmora Passwords."
   ],
   "required": false,
   "downloads": {
