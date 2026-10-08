@@ -1,0 +1,25 @@
+{
+  "latestVersionCode": 5218,
+  "latestVersionName": "3.2625.5273",
+  "releaseDate": "2026-10-08",
+  "title": "Fasmora 3.2625.5273 is available",
+  "message": "This update improves external-app and WebAPK navigation handoff and fixes authentication popup and callback handling.",
+  "whatsNew": [
+    "Improved external-app and WebAPK navigation handoff.",
+    "Fixed authentication popup and callback handling so sign-in can return to the originating tab."
+  ],
+  "required": false,
+  "downloads": {
+    "arm64-v8a": {
+      "url": "https://github.com/Dancode-del/fasmora-/releases/download/3.2625.5273/app-arm64-v8a-release.apk",
+      "label": "ARM64 — Recommended",
+      "sha256": "5af7012755976336ac5f62682aab1bf4efe1b556355d0d4dde816bb4e31f6e6b"
+    },
+    "armeabi-v7a": {
+      "url": "https://github.com/Dancode-del/fasmora-/releases/download/3.2625.5273/app-armeabi-v7a-release.apk",
+      "label": "32-bit ARM — Older devices",
+      "sha256": "5121bb855dbb03047792dfb8386160753c42e679a973de00193317a494b228dc"
+    }
+  },
+  "signature": "eXCl7cw90RTSYJfrpPZu50LUQwub7C+V4PXTdS5w7IIazpnHmLEfe0pRCUX69nI/dfkFCsG8gu/VQ+jaXtlHfinPBsF/Wr1jGAlPPWTq5XLdRT5iEq/SyXiFxN8DW3P/V3Ey9vGar0Vf+IPaiJOKOqFIuRRUvo5YzSWG6l/s7b6ChNlNhUu6CnEtMx1VZXNloSyusie+COw8RGyvajnSmDUU0lWArkIi0AqPKXofzq/NeUzGthiXR+ilhDyWHyzIdG7qiQFU5rG1cTDCagnit5Yx61zlzyCJzJThE9JW7wokParYa2yHMtjEz++ux9btIsMVcVu1V+qXbxEmGHl9EA=="
+}
