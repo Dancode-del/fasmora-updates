@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 6090,
-  "latestVersionName": "3.3000.6090",
+  "latestVersionCode": 6120,
+  "latestVersionName": "3.3000.6120",
   "releaseDate": "2026-10-20",
-  "title": "Fasmora 3.3000.6090 is available",
+  "title": "Fasmora 3.3000.6120 is available",
   "message": "This update improves download recovery, browser navigation and authentication, custom tabs, page security indicators, and connection error reporting.",
   "whatsNew": [
     "Downloads waiting for a network can resume when connectivity returns.",
@@ -23,5 +23,5 @@
       "sha256": "e88fbe5372fe8ceac1741af9259d0e9de93a57f72007da74b31aa6499b271711"
     }
   },
-  "signature": "EUcKpjGkqrs99cuOmZIAYDhXWGshSfKDMwzNcFvfi1pS9yrPNYnPT3PtOGgADc/THKPm2mIH3REjkQs7fty8Z8JMG+SXUZsWhclTRdHmTe4DkWw5gdR91uFEsPIIdJJbYzvPLu4J+/gozhGUHpzULIn21AmTHeb87AAfhmu+h/1KY8jlYKyfYcyj5nUxbI77tDPhiN2iZCJ0DNvwCgj8v3VDBvDRwGJHkdisFNUtQfo6pQhtIv/n1XH+aZCzlrd7HSfTkqLHUR6h4cqTKQ69APex/T7kQ5oREKiJ3Rtl6TkVFejFwsj3vsRuAGP/+Mhxkw+oCPszMBe/lrhvnV3ODw=="
+  "signature": "ggzQWf0a0A7sVAqVfGBO4htxex6sNksTwyrRowQxliJ1BWESuvKxxBNiVNVEkqgzaqgRdOMiLxWFQBQPQ8oRhom6SanVBkyQi/BAWMHvcIds9SiRHBVbEE+9tVHVlOTz+qefrrU29kf7AlKnMVjeGvZ4Vb8Vm5HHyweZ/6IqQ80JgNWeS2xDlBDQamwOU/nSbBCYPsEXxb1QD1zw4srgUXJ+7UcEAhIu1MejKhw/NWrgz/+sOXJKH1l/c8P4V5usxo0UK1WLefk1gfzPmYK7SFYhDSZNaKcX63kA3moYTUiOx8LRZroZlweI7V+chSwMiR3U4sfdPuWMotGVz2EQLw=="
 }
