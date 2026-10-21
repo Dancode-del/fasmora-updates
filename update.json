@@ -1,11 +1,12 @@
 {
-  "latestVersionCode": 6120,
-  "latestVersionName": "3.3000.6120",
-  "releaseDate": "2026-10-20",
-  "title": "Fasmora 3.3000.6120 is available",
-  "message": "This update improves download recovery, browser navigation and authentication, custom tabs, page security indicators, and connection error reporting.",
+  "latestVersionCode": 6170,
+  "latestVersionName": "3.3000.6170",
+  "releaseDate": "2026-10-21",
+  "title": "Fasmora 3.3000.6170 is available",
+  "message": "This update improves downloads, browser navigation and authentication, custom tabs, page security indicators, and connection error reporting.",
   "whatsNew": [
     "Downloads waiting for a network can resume when connectivity returns.",
+    "OAuth sign-in popups return to the original site if the authorization callback stalls.",
     "Improved browser navigation and authentication handling, including custom tabs.",
     "Refined page security indicators and connection error details.",
     "Improved homepage search focus and browser controls."
@@ -13,15 +14,15 @@
   "required": false,
   "downloads": {
     "arm64-v8a": {
-      "url": "https://github.com/Dancode-del/fasmora-/releases/download/3.3000.6090/app-arm64-v8a-release.apk",
+      "url": "https://github.com/Dancode-del/fasmora-/releases/download/3.3000.6170/app-arm64-v8a-release.apk",
       "label": "ARM64 - Recommended",
-      "sha256": "88f6bc363c3a2225f15a8237e49056cc8179eaa3c1ae21eb89ac8d7bd05a8f35"
+      "sha256": "D753D213037D771C30FC1CDDB54EBA082BB7CA1326AC41E74AEFA723B04A443B"
     },
     "armeabi-v7a": {
-      "url": "https://github.com/Dancode-del/fasmora-/releases/download/3.3000.6090/app-armeabi-v7a-release.apk",
+      "url": "https://github.com/Dancode-del/fasmora-/releases/download/3.3000.6170/app-armeabi-v7a-release.apk",
       "label": "32-bit ARM - Older devices",
-      "sha256": "e88fbe5372fe8ceac1741af9259d0e9de93a57f72007da74b31aa6499b271711"
+      "sha256": "2C2575F2CD6CCC211E36126809DE55DF8C92DC7F6665336B0C9EDEA447ACAB6C"
     }
   },
-  "signature": "ggzQWf0a0A7sVAqVfGBO4htxex6sNksTwyrRowQxliJ1BWESuvKxxBNiVNVEkqgzaqgRdOMiLxWFQBQPQ8oRhom6SanVBkyQi/BAWMHvcIds9SiRHBVbEE+9tVHVlOTz+qefrrU29kf7AlKnMVjeGvZ4Vb8Vm5HHyweZ/6IqQ80JgNWeS2xDlBDQamwOU/nSbBCYPsEXxb1QD1zw4srgUXJ+7UcEAhIu1MejKhw/NWrgz/+sOXJKH1l/c8P4V5usxo0UK1WLefk1gfzPmYK7SFYhDSZNaKcX63kA3moYTUiOx8LRZroZlweI7V+chSwMiR3U4sfdPuWMotGVz2EQLw=="
+  "signature": "VakGJC8Xlz9aH5UixEgD4Dk50FXvK+RpnZ1G4xvhGUo5QlBBPoqw1GI6rdKtaqt1ARf80uqbCtDKFCNc8pyo+Gthq7RsAjtFB8MTbPsFM99m8qc5lIkX1/HgzTf4enYowdu7+zjUXOqwgbCygOmMrC05Olgj6fqmbUkITitfpmmHYvgzJF85JHiUdRSNMZvzCg9P2ZeXt2Cvdk2D02EAHEk/P+oErfUSC6ivsdVHIRpPI7ndjcDr1yObGYLbH4G/AxxsBzMGFGt5RocMrgKntP9C4t4b15QNLXhCgmnJXSJpW9cDP5tM6BmqBACwDjjrkIHZGBKdvnUOVxer5+UBZg=="
 }
