@@ -1,28 +1,31 @@
 {
-  "latestVersionCode": 6420,
-  "latestVersionName": "3.3000.6420",
-  "releaseDate": "2026-11-01",
-  "title": "Fasmora 3.3000.6420 is available",
-  "message": "A smoother, more capable Fasmora: resume downloads, identify media, translate pages inline, and read offline with stronger popup controls.",
+  "latestVersionCode": 7020,
+  "latestVersionName": "3.3000.7020",
+  "releaseDate": "2026-11-06",
+  "title": "Fasmora 3.3000.7020 is available",
+  "message": "The latest Fasmora release improves webpage translation and Google sign-in reliability.",
   "whatsNew": [
-    "Paused downloads resume from where they stopped, with stronger HLS recovery.",
-    "Detected media shows clearer file names, sizes, and media types before download.",
-    "Translate full webpages inline and save pages for offline reading or Reader mode.",
-    "Stronger ad and popup blocking, with controls to allow popups for a site you trust.",
-    "More reliable custom tabs, page previews, and browser navigation."
+    "Correct whitespace preservation in ML Kit DOM translation",
+    "Fix ML Kit inline page translation fallback",
+    "Delegate page translation to focused session controller",
+    "Extract GeckoView translation session handling",
+    "Align GeckoView version metadata with published runtime",
+    "Wait for GeckoView translation state changes",
+    "Use GeckoView native translation for full webpage translation",
+    "Recover Google sign-in from blank popup"
   ],
   "required": false,
   "downloads": {
     "arm64-v8a": {
-      "url": "https://github.com/Dancode-del/fasmora-/releases/download/3.3000.6420/app-arm64-v8a-release.apk",
+      "url": "https://github.com/Dancode-del/fasmora-/releases/download/3.3000.7020/app-arm64-v8a-release.apk",
       "label": "ARM64 - Recommended",
-      "sha256": "521576584d89ed6195c2d3e5131d1d28761e74c520e59b8afe07962f24c70f8e"
+      "sha256": "f5227fc2e31bec40fdbb430b4b443f8a25c705dd2d34d57397adb2a7850bf9f6"
     },
     "armeabi-v7a": {
-      "url": "https://github.com/Dancode-del/fasmora-/releases/download/3.3000.6420/app-armeabi-v7a-release.apk",
+      "url": "https://github.com/Dancode-del/fasmora-/releases/download/3.3000.7020/app-armeabi-v7a-release.apk",
       "label": "32-bit ARM - Older devices",
-      "sha256": "a4e2bdbc24ee96346991e336ca26b9a372f8405ffc09291bea7131ba121caa55"
+      "sha256": "e49d6025280e034d49656beac5b7eed4f948f12ead91fa0dc7787e070ea9a719"
     }
   },
-  "signature": "fR08hkQ0/JkJz6KJWVk7gtjF4/VJs8MGowpC90wqBAYOcebhMXhtEUX7JUmMyU4BEgNDtmxJzxluPI3LLlqNAtHBcZleqK8k7zackVdtLxnac+0lu161vut78Kbk611gibVnfeX/24DhRDqUrL45FfN31s8xKGg6f/wsjMkMcOJ2tQ3tNlixMi3dogLBXaqqn6Qg4zIu55kNX6m9qFXHzO14dT2xyerEsv5Zl83ATGQtBr20OdwQl460K9wUhvaAxAzaHgDJhsGE+MCIk7aTWXo/m8mbGSMUwdy0quXzVA0BdwrggbRongLiWML8yv4QxYILj3SANLjfn4rtNIT2jA=="
+  "signature": "Dx8xdeE/p+aGV59cc3b+glr91CFTvTNEo9mKdfOXtlburbv14TMvyH/S7mOHnzgEZAQqxaifI3T3Wa4bJnwaVBj61vXGiPABtP4qZcyDypdiFaV5Mknkxlj4evSHQghtLy1AoaVcKD06KQpIXtmEwM5e5AsYY+6sebjecugmhZbNAhCt1zTdZDgioTMalEGboCa4V7A84KiqqgOIMQAdGCzkqwue1wVojxDESMNOcF0y/om6s5LyFoWnn05TBBXbVIWubjclnQRpgoKCI66claQ47IyGJL15pDmo0u+cxzkFVAssTS3PI5AsUjCQdLARf5sJ6jThdWQuKb3sanYO9w=="
 }
